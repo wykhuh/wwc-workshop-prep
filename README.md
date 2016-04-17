@@ -2,7 +2,7 @@
 
 ### Computer setup
 
-1. Install Node. Version 4+ or 5+ is fine. https://nodejs.org/en/
+1. Install Node via nvm or nodist. [instructions](https://gist.github.com/wykhuh/e3aedcfd784d703472c4a6111941adcd)
 
 2. Install Git. https://git-scm.com/downloads
 
