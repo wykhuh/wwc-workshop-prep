@@ -1,4 +1,4 @@
-# Prep for Intro to Node/Express workshop
+# Prep for Women Who Code: Intro to Node/Express workshop
 
 ### Computer setup
 
